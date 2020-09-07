@@ -9,3 +9,6 @@ The model files can be opened with the free Model Reader from Vensim or any of t
 - "/model_experiments" - contains the model files each set to the respective experiment values and including the simulation results
 - "/outcomes_results" - contains the visualized simulation results of the outcome variables
 - "/py_data_preparation" - contains the python scripts used to clean and prepare some of the datasets
+
+
+License: CC BY 4.0
