@@ -10,6 +10,7 @@ The Model Reader can be downloaded from: https://vensim.com/free-download/
 - "master_et_de.xlsx" - contains the referenced data to run the model as well as the entire pool of data used in for this research
 - "/outcomes_results" - contains the visualized simulation results of the outcome variables
 - "/py_data_preparation" - contains the python scripts used to clean and prepare some of the datasets (to be uploaded)
+
 The respective values of the model experiments were too large to upload.
 
 License: CC BY 4.0
